@@ -31,7 +31,7 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 ## 📜 Certifications
 - 🤖 **Stanford Machine Learning (AI) - Coursera** (by Andrew Ng)  
 - 🔐 **Google Cybersecurity Professional Certificate**  
-- 🎓 **Security+ Course (Texas A&M) - 4.0 GPA**
+- 🎓 **Security+ Course (Texas A&M University-Texarkana) - 4.0 GPA**
 
 ## 🛠️ Skills
 - **Programming:** C++, C#, Python, JavaScript, Java, Assembly
