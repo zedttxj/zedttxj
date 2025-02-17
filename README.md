@@ -35,6 +35,8 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 
 ## 🛠️ Skills
 - **Programming:** C++, C#, Python, JavaScript, Java, Assembly
+- **Operating Systems:** Linux (Advanced command-line usage, system administration, shell scripting)
+- **Linux Tools:** Bash, SSH, Netcat, Wireshark, GDB, Nmap, tshark, tcpdump, scapy, ping, nc, shell variables, manage permissions, handle user groups, chain commands, inject and remove custom commands, link and find files, perform file globbing, and pipe commands
 - **Security:** Web Pen-testing, Cryptography, SIEM (Splunk), Wireshark
 - **Networking:** CCNA training, VPN, Firewall, Packet Analysis
 
