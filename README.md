@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Nguyen Minh (zedttxj)
+# 👋 Hi, I'm Nguyen Anh Minh (zedttxj)
 
-🚀 **Cybersecurity Enthusiast | CTF Player (Ranked 160th in picoCTF 2024)**  
+🚀 **Cybersecurity Enthusiast | CTF Player (Ranked 160th in picoCTF 2024)** [picoCTF Profile](https://play.picoctf.org/users/zedttxj)
 🔐 Passionate about cryptography, ethical hacking, and problem-solving  
 📚 ## 🔍 Current Research Interests
 I'm currently exploring **advanced mathematics** topics that are deeply connected to **cryptography and algorithms**, including:  
@@ -12,14 +12,8 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 
 ---
 
-## 🛠️ Skills
-- **Programming:** C++, Python, JavaScript, Java, Assembly
-- **Security:** Web Pen-testing, Cryptography, SIEM (Splunk), Wireshark
-- **Networking:** CCNA training, VPN, Firewall, Packet Analysis
-
 ## 🏆 Achievements
-- Solved advanced cryptography & security challenges on [pwn.college](https://pwn.college/hacker/1o1)
-- Conducted MITM & penetration tests using Wireshark, pwntools, and Netcat
+- Solved advanced cryptography & security challenges on pwn.college and conducted MITM & penetration tests using Wireshark, pwntools, and Netcat [pwn.college](https://pwn.college/hacker/1o1)
 - Executive Secretary at IEEE TAMUT, organizing tech events & competitions
 
 ## 📂 Featured Projects
@@ -32,15 +26,21 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 
 ## 📫 Contact
 📧 Email: [anhminh.nguyen@ace.tamut.edu](mailto:anhminh.nguyen@ace.tamut.edu)  
-🔗 [picoCTF Profile](https://play.picoctf.org/users/zedttxj
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/anh-minh-nguyen-b750342ba/)
 
 ## 📜 Certifications
 - 🤖 **Stanford Machine Learning (AI) - Coursera** (by Andrew Ng)  
 - 🔐 **Google Cybersecurity Professional Certificate**  
 - 🎓 **Security+ Course (Texas A&M) - 4.0 GPA**
-  
+
+## 🛠️ Skills
+- **Programming:** C++, Python, JavaScript, Java, Assembly
+- **Security:** Web Pen-testing, Cryptography, SIEM (Splunk), Wireshark
+- **Networking:** CCNA training, VPN, Firewall, Packet Analysis
+
 ## 📚 Currently Studying
-- 📖 **CISSP (Certified Information Systems Security Professional)**  
+- 📖 **CISSP (Certified Information Systems Security Professional)**
+- 🎓 **Bachelor’s Degree in Cybersecurity** – **Texas A&M University-Texarkana**
 
 ## 🏆 Competitive Programming & Algorithms
 - 🥇 **USACO Gold-Level Algorithms** (Graph Theory, DP, Greedy, Data Structures)  
