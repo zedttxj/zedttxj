@@ -20,6 +20,7 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 🔹 **Optimized Port-Scanning & MITM Attack** – [GitHub Repo](#)  
 🔹 **Cryptography Pen-testing** – [GitHub Repo](#)  
 🔹 **Web Security & Exploits** – [GitHub Repo](#)  
+🔹 **Computer Software Introspection** – [GitHub Repo](#)  
 
 ## 📄 Resume
 📄 [View My Resume (PDF)](https://github.com/zedttxj/zedttxj/raw/main/CV.pdf)  
