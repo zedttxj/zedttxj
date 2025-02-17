@@ -13,7 +13,7 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 ---
 
 ## 🏆 Achievements
-- Solved advanced cryptography & security challenges on pwn.college and conducted MITM & penetration tests using Wireshark, pwntools, and Netcat [pwn.college](https://pwn.college/hacker/1o1)
+- Solved advanced cryptography & security challenges on [pwn.college](https://pwn.college/hacker/1o1) and conducted MITM & penetration tests using Wireshark, pwntools, and Netcat
 - Executive Secretary at IEEE TAMUT, organizing tech events & competitions
 
 ## 📂 Featured Projects
