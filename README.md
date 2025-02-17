@@ -34,7 +34,7 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 - 🎓 **Security+ Course (Texas A&M) - 4.0 GPA**
 
 ## 🛠️ Skills
-- **Programming:** C++, Python, JavaScript, Java, Assembly
+- **Programming:** C++, C#, Python, JavaScript, Java, Assembly
 - **Security:** Web Pen-testing, Cryptography, SIEM (Splunk), Wireshark
 - **Networking:** CCNA training, VPN, Firewall, Packet Analysis
 
