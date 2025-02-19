@@ -17,9 +17,8 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 - Executive Secretary at IEEE TAMUT, organizing tech events & competitions
 
 ## 📂 Featured Projects
-🔹 **Optimized Port-Scanning & MITM Attack** – [GitHub Repo](https://github.com/zedttxj/Optimized-Port-Scanning-MITM)  
 🔹 **Cryptography Pen-testing** – [GitHub Repo](#)  
-🔹 **Web Security & Exploits** – [GitHub Repo](https://github.com/zedttxj/Web-Security-Exploits/)  
+🔹 **Web-Security Exploits & Network-Traffic Interceptions** – [GitHub Repo](https://github.com/zedttxj/Web-Security-Exploits/)  
 🔹 **Computer Software Introspection** – [GitHub Repo](https://github.com/zedttxj/Computer-Software-Introspection/)  
 
 ## 📄 Resume
