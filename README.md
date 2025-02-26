@@ -21,9 +21,6 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 🔹 **Web-Security Exploits & Network-Traffic Interceptions** – [GitHub Repo](https://github.com/zedttxj/Web-Security-Exploits/)  
 🔹 **Computer Software Introspection** – [GitHub Repo](https://github.com/zedttxj/Computer-Software-Introspection/)  
 
-## 📄 Resume
-📄 [View My Resume (PDF)](https://github.com/zedttxj/zedttxj/raw/main/CV.pdf)  
-
 ## 📫 Contact
 📧 Email: [anhminh.nguyen@ace.tamut.edu](mailto:anhminh.nguyen@ace.tamut.edu)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/anh-minh-nguyen-b750342ba/)
