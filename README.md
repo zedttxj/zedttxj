@@ -21,6 +21,8 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 🔹 **Web-Security Exploits & Network-Traffic Interceptions** – [GitHub Repo](https://github.com/zedttxj/Web-Security-Exploits/)  
 🔹 **Computer Software Introspection** – [GitHub Repo](https://github.com/zedttxj/Computer-Software-Introspection/)  
 🔹 **Incident Response Analysis - Follina** – [BTLO](https://blueteamlabs.online/achievement/share/challenge/101770/43)
+🔹 **Secure Batch File Processor** – [GitHub Repo](https://github.com/zedttxj/Execute-shell-command-with-every-files-in-a-folder/)
+
 
 ## 📫 Contact
 📧 Email: [anhminh.nguyen@ace.tamut.edu](mailto:anhminh.nguyen@ace.tamut.edu)  
