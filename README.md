@@ -20,6 +20,7 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 🔹 **Cryptography Pen-testing** – [GitHub Repo](https://github.com/zedttxj/Cryptography/)  
 🔹 **Web-Security Exploits & Network-Traffic Interceptions** – [GitHub Repo](https://github.com/zedttxj/Web-Security-Exploits/)  
 🔹 **Computer Software Introspection** – [GitHub Repo](https://github.com/zedttxj/Computer-Software-Introspection/)  
+🔹 **Incident Response Analysis - Follina** – [BTLO](https://blueteamlabs.online/achievement/share/challenge/101770/43)
 
 ## 📫 Contact
 📧 Email: [anhminh.nguyen@ace.tamut.edu](mailto:anhminh.nguyen@ace.tamut.edu)  
