@@ -22,6 +22,7 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 🔹 **Computer Software Introspection** – [GitHub Repo](https://github.com/zedttxj/Computer-Software-Introspection/)  
 🔹 **Incident Response Analysis - Follina** – [BTLO](https://blueteamlabs.online/achievement/share/challenge/101770/43)  
 🔹 **Secure Batch File Processor** – [GitHub Repo](https://github.com/zedttxj/Execute-shell-command-with-every-files-in-a-folder/)
+🔹 **Bayer Filter - Image Processing with MATLAB:** [GitHub Repo](https://github.com/zedttxj/Image-Processing-Tool-with-Matlab/)
 
 
 ## 📫 Contact
