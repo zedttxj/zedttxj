@@ -27,9 +27,9 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 
 ## 📫 Contact
 📧 Email: [anhminh.nguyen@ace.tamut.edu](mailto:anhminh.nguyen@ace.tamut.edu)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/anh-minh-nguyen-b750342ba/)
-🔗 [PicoCTF Profile](https://play.picoctf.org/users/zedttxj)
-🔗 [pwn.college Profile](https://pwn.college/hacker/1o1)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/anh-minh-nguyen-b750342ba/)  
+🔗 [PicoCTF Profile](https://play.picoctf.org/users/zedttxj)  
+🔗 [pwn.college Profile](https://pwn.college/hacker/1o1)  
 
 ## 📜 Certifications
 - 🤖 **Stanford Machine Learning (AI) - Coursera** (by Andrew Ng)  
