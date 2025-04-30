@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nguyen Anh Minh (zedttxj)
 
-🚀 **Cybersecurity Enthusiast | CTF Player (Ranked 160th in picoCTF 2024)** [picoCTF Profile](https://play.picoctf.org/users/zedttxj)
+🚀 **Cybersecurity Enthusiast | CTF Player (Ranked 140th in picoCTF 2024)** [picoCTF Profile](https://play.picoctf.org/users/zedttxj)
 🔐 Passionate about cryptography, ethical hacking, and problem-solving  
 📚 ## 🔍 Current Research Interests
 I'm currently exploring **advanced mathematics** topics that are deeply connected to **cryptography and algorithms**, including:  
