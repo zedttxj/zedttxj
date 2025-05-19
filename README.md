@@ -23,6 +23,10 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 🔹 **Incident Response Analysis - Follina** – [BTLO](https://blueteamlabs.online/achievement/share/challenge/101770/43)  
 🔹 **Secure Batch File Processor** – [GitHub Repo](https://github.com/zedttxj/Execute-shell-command-with-every-files-in-a-folder/)  
 🔹 **Bayer Filter - Image Processing with MATLAB** – [GitHub Repo](https://github.com/zedttxj/Image-Processing-Tool-with-Matlab/)  
+🔹 **Azure Credential Leak Detection** – [GitHub Repo](https://github.com/zedttxj/certifications/blob/main/Flare-Academy-Certificate-CPE.pdf)  
+🔹 **Web-based Markdown-to-LaTeX Converter** – [GitHub Repo](https://zedttxj.github.io/MD-To-LaTex/)  
+🔹 **Policy Development & GRC Implementation** – [GitHub Repo](https://github.com/zedttxj/certifications/blob/main/certificate-of-completion-for-the-definitive-grc-analyst-master-class.pdf)  
+🔹 **DevOps & Automation Projects** – [GitHub Repo](https://zedttxj.github.io/MD-To-LaTex-Sandbox/)  
 🔹 **Cybersecurity & Cloud Security** – [GitHub Repo](https://github.com/zedttxj/SecOps/blob/main/README.md)  
 
 ## 📫 Contact
@@ -37,7 +41,7 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 - 🎓 **Security+ Course (Texas A&M University-Texarkana) - 4.0 GPA**
 
 ## 🛠️ Skills
-- **Programming:** C++, C#, Python, JavaScript, Java, Assembly
+- **Programming:** C++, Python, JavaScript, Java, Assembly
 - **Operating Systems:** Linux (Advanced command-line usage, system administration, shell scripting)
 - **Linux Tools:** Bash, SSH, Netcat, GDB, Nmap, tshark, tcpdump, ping, nc, shell variables, manage permissions, handle user groups, chain commands, inject and remove custom commands, link and find files, perform file globbing, and pipe commands
 - **Security:** Web Pen-testing, Cryptography, SIEM (Splunk), Wireshark
