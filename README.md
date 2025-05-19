@@ -29,6 +29,8 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 🔹 **DevOps & Automation Projects** – [GitHub Repo](https://zedttxj.github.io/MD-To-LaTex-Sandbox/)  
 🔹 **Cybersecurity & Cloud Security** – [GitHub Repo](https://github.com/zedttxj/SecOps/blob/main/README.md)  
 
+> ⚙️ All projects are designed with a focus on security, automation, academic research, and real-world incident simulation. I continuously update these based on lessons from CTFs, GRC training, and real use cases.
+
 ## 📫 Contact
 📧 Email: [anhminh.nguyen@ace.tamut.edu](mailto:anhminh.nguyen@ace.tamut.edu)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/anh-minh-nguyen-b750342ba/)  
