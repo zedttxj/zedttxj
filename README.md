@@ -26,7 +26,7 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 🔹 **Azure Credential Leak Detection** – [GitHub Repo](https://github.com/zedttxj/certifications/blob/main/Flare-Academy-Certificate-CPE.pdf)  
 🔹 **Web-based Markdown-to-LaTeX Converter** – [GitHub Repo](https://zedttxj.github.io/MD-To-LaTex/)  
 🔹 **Policy Development & GRC Implementation** – [GitHub Repo](https://github.com/zedttxj/certifications/blob/main/certificate-of-completion-for-the-definitive-grc-analyst-master-class.pdf)  
-🔹 **DevOps & Automation Projects** – [GitHub Repo](https://zedttxj.github.io/MD-To-LaTex-Sandbox/)  
+🔹 **DevOps & Collaboration Editor** – [GitHub Repo](https://zedttxj.github.io/MD-LaTeX/)  
 🔹 **Cybersecurity & Cloud Security** – [GitHub Repo](https://github.com/zedttxj/SecOps/blob/main/README.md)  
 
 > ⚙️ All projects are designed with a focus on security, automation, academic research, and real-world incident simulation. I continuously update these based on lessons from CTFs, GRC training, and real use cases.
