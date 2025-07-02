@@ -32,7 +32,7 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 > ⚙️ All projects are designed with a focus on security, automation, academic research, and real-world incident simulation. I continuously update these based on lessons from CTFs, GRC training, and real use cases.
 
 ## 📫 Contact
-📧 Email: [anhminh.nguyen@ace.tamut.edu](mailto:anhminh.nguyen@ace.tamut.edu)  
+📧 Email: [nguy1587@purdue.edu](mailto:nguy1587@purdue.edu)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/anh-minh-nguyen-b750342ba/)  
 🔗 [PicoCTF Profile](https://play.picoctf.org/users/zedttxj)  
 🔗 [pwn.college Profile](https://pwn.college/hacker/1o1)  
