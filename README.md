@@ -40,10 +40,11 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 🔗 [pwn.college Profile](https://pwn.college/hacker/1o1)  
 
 ## 📜 Certifications
+- 🕵️ **SOC Analyst Certification - TCM Security**
 - 🤖 **Stanford Machine Learning (AI) - Coursera** (by Andrew Ng)  
 - 🔐 **Google Cybersecurity Professional Certificate**  
 - 🎓 **Security+ Course (Texas A&M University-Texarkana) - 4.0 GPA**
-- 📖 **CISSP Course (Certified Information Systems Security Professional)**
+- 📖 **CISSP Training (Certified Information Systems Security Professional)**
 
 ## 🛠️ Skills
 - **Programming:** C++, Python, JavaScript, Java, Assembly
