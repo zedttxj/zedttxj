@@ -14,6 +14,8 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 
 ## 🏆 Achievements
 - Solved advanced cryptography & security challenges on [pwn.college](https://pwn.college/hacker/1o1) and conducted MITM & penetration tests using Wireshark, pwntools, and Netcat
+- Developed a lightweight online collaboration platform secured by three back-end servers and a custom locally signed PKI, designed so that anyone can integrate it with just one line of JavaScript
+- Undergraduate Researcher at TAMUT, submitted 2 papers to *IEEE Transactions on Image Processing* and *Journal of Algebraic Combinatorics*
 - Executive Secretary at IEEE TAMUT, organizing tech events & competitions
 
 ## 📂 Featured Projects
@@ -41,6 +43,7 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 - 🤖 **Stanford Machine Learning (AI) - Coursera** (by Andrew Ng)  
 - 🔐 **Google Cybersecurity Professional Certificate**  
 - 🎓 **Security+ Course (Texas A&M University-Texarkana) - 4.0 GPA**
+- 📖 **CISSP Course (Certified Information Systems Security Professional)**
 
 ## 🛠️ Skills
 - **Programming:** C++, Python, JavaScript, Java, Assembly
@@ -50,8 +53,7 @@ I'm currently exploring **advanced mathematics** topics that are deeply connecte
 - **Networking:** CCNA training, VPN, Firewall, Packet Analysis
 
 ## 📚 Currently Studying
-- 📖 **CISSP (Certified Information Systems Security Professional)**
-- 🎓 **Bachelor’s Degree in Cybersecurity** – **Texas A&M University-Texarkana**
+- 🎓 **Bachelor of Science in Cybersecurity** – **Purdue University's West Lafayette**
 
 ## 🏆 Competitive Programming & Algorithms
 - 🥇 **USACO Gold-Level Algorithms** (Graph Theory, DP, Greedy, Data Structures)  
